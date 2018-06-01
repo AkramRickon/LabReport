@@ -62,7 +62,7 @@ return 0;
 
 }
 
-///Write input and output
+/*Sample input and output */
 /*Enter the No. of Nodes in Graph :3
 
 ---- Enter the Distance b/w Nodes ----
