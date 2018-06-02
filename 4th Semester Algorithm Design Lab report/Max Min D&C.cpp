@@ -1,4 +1,7 @@
 
+///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Algorithm 3.6 page 141 chapter: Divide and Conquer
+
 #include<stdio.h>
 int max, min;
 int a[100];
@@ -34,7 +37,6 @@ void maxmin(int i, int j)
         if(min > min1)
             min = min1;
     }
-
 }
 int main ()
 {
@@ -52,3 +54,12 @@ int main ()
     printf ("Maximum element in an array : %d\n", max);
     return 0;
 }
+
+/*Sample input and output */
+/*
+Enter the total number of numbers : 5
+Enter the numbers :
+1 2 3 4 5
+Minimum element in an array : 1
+Maximum element in an array : 5
+*/
