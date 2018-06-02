@@ -1,4 +1,7 @@
 
+///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Algorithm 3.2 page 132 chapter: Divide and conquer
+
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -32,4 +35,12 @@ int main()
     else             cout<<"Item is present at position:"<<result+1<<endl;
     return 0;
 }
+
+/*Sample input and output*/
+/*
+5
+1 2 3 4 5
+3
+Item is present at position: 3
+*/
 
