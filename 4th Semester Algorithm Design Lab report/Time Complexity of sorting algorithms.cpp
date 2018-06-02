@@ -5,6 +5,7 @@
 ///InsertionSort Algorithm 3.9 page 151
 ///Merge Sort Algorithm 3.7,3.8 page 146,147
 ///Quick Sort Algorithm 3.12,3.13 page 156,157
+///Bubble sort and insertion sort algorithms are not provided in the Mentioned book so i am providing this two algorithm
 
 /*Algorithm bubbleSort(a,n)
 
@@ -17,13 +18,13 @@
     swap(a[j], a[j+1]);
 */
 
-/*Algorithm SELECTIONSORT(A)
+/*Algorithm SELECTIONSORT(A,n)
 	    for j:= 1 to n-1 do
 	    smallest:= j
             for i:= j + 1 to n do
 	    if A[ i ] < A[smallest]
             smallest:= i
-            swap( A[ j ],A[ smallest ])
+            swap( A[j],A[smallest])
 */
 
 #include <iostream>
