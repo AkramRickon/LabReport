@@ -5,7 +5,7 @@
 ///InsertionSort Algorithm 3.9 page 151
 ///Merge Sort Algorithm 3.7,3.8 page 146,147
 ///Quick Sort Algorithm 3.12,3.13 page 156,157
-///Bubble sort and insertion sort algorithms are not provided in the Mentioned book so i am providing this two algorithm
+///Bubble sort and selection sort algorithms are not provided in the Mentioned book so i am providing this two algorithm
 
 /*Algorithm bubbleSort(a,n)
 
