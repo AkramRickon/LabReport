@@ -1,5 +1,5 @@
 
-///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Follow the algorithms from the book Computer Algorithms by ELLIS HOROWITZ
 ///Algorithm  4.2 page 201 chapter: Greedy Method
 
 # include<stdio.h>

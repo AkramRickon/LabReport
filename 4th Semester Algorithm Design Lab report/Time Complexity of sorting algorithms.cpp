@@ -1,6 +1,6 @@
 
 
-///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Follow the algorithms from the book Computer Algorithms by ELLIS HOROWITZ
 ///chapter: Divide and conquer
 ///InsertionSort Algorithm 3.9 page 151
 ///Merge Sort Algorithm 3.7,3.8 page 146,147

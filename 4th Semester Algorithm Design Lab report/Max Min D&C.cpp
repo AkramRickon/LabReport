@@ -1,5 +1,5 @@
 
-///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Follow the algorithms from the book Computer Algorithms by ELLIS HOROWITZ
 ///Algorithm 3.6 page 141 chapter: Divide and Conquer
 
 #include<stdio.h>

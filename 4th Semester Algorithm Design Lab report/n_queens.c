@@ -1,5 +1,5 @@
 
-///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Follow the algorithms from the book Computer Algorithms by ELLIS HOROWITZ
 ///Algorithm 7.4 and 7.5, page 354 chapter: Dynamic programming
 
 #include<stdio.h>

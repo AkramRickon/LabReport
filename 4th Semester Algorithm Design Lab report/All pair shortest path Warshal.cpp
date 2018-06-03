@@ -1,6 +1,6 @@
 
 
-///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Follow the algorithms from the book Computer Algorithms by ELLIS HOROWITZ
 ///Algorithm 5.3 page 267 chapter: Dynamic programming
 
 #include <iostream>

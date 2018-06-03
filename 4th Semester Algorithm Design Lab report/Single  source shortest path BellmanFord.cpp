@@ -1,5 +1,5 @@
 
-///Follow the algorithm from the book Computer Algorithms  ELLIS HOROWITZ
+///Follow the algorithms from the book Computer Algorithms by ELLIS HOROWITZs
 ///Algorithm 5.4 page 273 chapter: Dynamic programming
 
 
