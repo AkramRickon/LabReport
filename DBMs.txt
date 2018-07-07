@@ -1,0 +1,43 @@
+1.(a)
+select e.employee_name,city,salary
+from employee as e, works as w
+where e.employee_name=w.employee_name
+and company_name='Prime Bank Ltd';
+1.(b)
+select company_name,SUM(salary) 
+from works
+group by company_name;
+2.(a)
+select customer_name from depositor 	
+where customer_name NOT IN (select customer_name from borrower);
+2.(b)
+Delete FROM loan where amount BETWEEN '13000' and '20000' 
+3.(a)
+select customer_name from depositor 	
+where customer_name NOT IN (select customer_name from borrower);
+3.(b)
+SELECT branch_name, avg(balance) FROM account
+WHERE branch_name='Mohakhali'
+4.(a)
+select e.employee_name,city,street,salary
+from employee as e, works as w
+where e.employee_name=w.employee_name
+and company_name='Prime Bank Ltd' and salary >10000; 
+4.(b)
+SELECT employee_name,salary FROM works
+ where salary >(SELECT  max(salary) FROM works WHERE company_name='Prime Bank Ltd') ;
+5.(a)
+SELECT * FROM borrower
+or 
+SELECT customer_name,borrower.loan_number from borrower,loan
+WHERE borrower.loan_number=loan.loan_number;
+5.(b)
+SELECT customer_name from depositor 
+where account.account_number=depositor.account_number
+and branch_name="Dhanmondi" order by customer_name
+6.(a)
+SELECT customer_name from borrower 
+UNION
+6)b(
+SELECT customer_name from depositor
+INSERT INTO account VALUES ('Sb_0055','Mohakhaali_branch ',25000)
