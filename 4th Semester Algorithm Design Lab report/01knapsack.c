@@ -1,3 +1,4 @@
+//hi aita knapsack problem
 
 # include<stdio.h>
 
